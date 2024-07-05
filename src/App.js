@@ -90,7 +90,7 @@ function App() {
           lineHeight: '22px',
         }}
       >
-        Explore current weather data and 6-day forecast of more than 200,000
+        Explore current weather data and 7-day forecast of more than 200,000
         cities!
       </Typography>
     </Box>
@@ -192,7 +192,7 @@ function App() {
 
             <UTCDatetime />
             <Link
-              href="https://github.com/Amin-Awinti"
+              href="https://github.com/krishnaa-1/Weather-Dashboard"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
