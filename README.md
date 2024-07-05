@@ -4,9 +4,10 @@ You need an API key from OpenWeatherMap. After creating an account, grab your ke
 Then, under the src directory, go to api/OpenWeatherService and replace WEATHER_API_KEY with your OpenWeatherMap API Key.
 api/OpenWeatherService.js: It contains the code related to the back-end of the application.
 
+
 ⚡ Install
 Clone the repository:
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone  (https://github.com/krishnaa-1/Weather-Dashboard.git)
 Install the packages using the command npm install
 
 📙 Used libraries
